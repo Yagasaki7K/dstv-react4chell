@@ -1,5 +1,3 @@
-<!-- Logo -->
-
 <p align="center">
   <a href="https://github.com/ApertureLaboratory">
     <img alt="Aperture Laboratories - Chell Series" src="https://github.com/ApertureLaboratory/4chell/blob/main/.github/ChellSeries.png" />
@@ -25,16 +23,21 @@ Nesse artigo você aprenderá os conceitos básicos e avançados do Desenvolvime
 
 Esse artigo possuí o selo IICA - Introdução, Instalação e Criação do Aplicativo.
 
-O status do projeto atual está como: **EM CONSTRUÇÃO!**
-
 ## Sumário
 
 - [Introdução](#o-que-é-desenvolvimento-web)
     - [O que significa ser reativo?](#o-que-significa-ser-reativo)
     - [Componentização do React](#componentização-do-react)
 - [Aprendendo mais](#aprendendo-mais)
+- [1. Instalação](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/1.instala%C3%A7%C3%A3o/README.md)
+- [2. Create-react-app](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/2.create-react-app/README.md)
+- [3. Componentes](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/3.%20componentes/README.md)
+- [4. Estados](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/4.%20estados/README.md)
+- [5. Eventos](https://github.com/Yagasaki7K/react4chell/tree/main/documenta%C3%A7%C3%A3o/5.%20eventos)
+- [6. React Hooks](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/6.%20react%20hooks/README.md)
+- [Como contribuir](#como-contribuir)
 
-# Introdução
+## Introdução
 Inicialmente recomendamos fortemente que você tenha uma base sólida de HTML, CSS e Javascript, pois o React é uma linguagem Javascript que é utilizada para construir interfaces de usuário e caso você não tenha entendimento sobre a base, nada adianta tentar escalar o resto.
 
 A história é simples, React é um framework reativo desenvolvido pela Facebook - atualmente Meta Platforms, Inc.
@@ -82,18 +85,18 @@ Não existe um padrão de arquitetura que você pode seguir com o React - ainda
 
 Mas cuidado com a organização e as declaração, procure se informar se o `<Header>` é uma propriedade privada da própria biblioteca, como o caso de `<Image>` no NextJS - o filho do React, mas é um tema para outro artigo - utilizado para fazer uma importação de imagem, substituindo o famoso `<img>` e deixando bem mais otimizado.
 
-# Aprendendo mais ...
+## Aprendendo mais ...
 
 Mas não se preocupe, caso você não tenha entendido nada, isso é apenas uma introdução de uma das possibilidades que o React consegue fazer, quer aprender mais e se aprofundar? Então me siga nessa jornada e vamos mostrar o passo a passo do básico ao avançado no React.
 
 O que é necessário para aprender React? HTML, CSS e Javascript. É ideal já ter o [NodeJS](https://nodejs.org/pt-br/download/) ou [Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable) instalado em sua máquina para seguir os próximos passos.
 
-- [Instalação]() 
-- [Create-React-App]()
-- [Componentes]()
-- [Estados]()
-- [Eventos]()
-- [React Hooks]()
+- [1. Instalação](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/1.instala%C3%A7%C3%A3o/README.md)
+- [2. Create-react-app](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/2.create-react-app/README.md)
+- [3. Componentes](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/3.%20componentes/README.md)
+- [4. Estados](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/4.%20estados/README.md)
+- [5. Eventos](https://github.com/Yagasaki7K/react4chell/tree/main/documenta%C3%A7%C3%A3o/5.%20eventos)
+- [6. React Hooks](https://github.com/Yagasaki7K/react4chell/blob/main/documenta%C3%A7%C3%A3o/6.%20react%20hooks/README.md)
 
 ## Como Contribuir
 
@@ -108,5 +111,5 @@ Todas contribuições são **extremamente apreciadas e avaliadas**
 
 ## Autores do Artigo
 
-- **Anderson "Yagasaki" Marlon** - _Dev Front-end e Graduado no CC50 de Harvard_ - [@Yagasaki7k](https://twitter.com/Yagasaki)
+- **Anderson "Yagasaki" Marlon** - _Dev Front-end e Graduado no CC50 de Harvard_ - [@Yagasaki7k](https://twitter.com/Yagasaki7K)
 - Contribuidores - [Lista de contribuidores](https://github.com/Yagasaki7K/react4chell/graphs/contributors)
